@@ -1,0 +1,2 @@
+# sharepoint-inventory
+Sharepoint inventory
